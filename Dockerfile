@@ -1,6 +1,4 @@
-FROM rockylinux:9.0
-
-LABEL org.opencontainers.image.authors="Sean Cline <smcline06@gmail.com>"
+FROM ubuntu:noble
 
 EXPOSE 80 443
 
