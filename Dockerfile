@@ -1,4 +1,4 @@
-FROM ubuntu:noble
+FROM rockylinux:9.3
 
 EXPOSE 80 443
 
